@@ -8,7 +8,7 @@ FOR INSTALLATION FOLLOW THESE STEPS:
 ___________________________________________________________________________________________________________
 
 1) Download AndProtect App from link:
- https://github.com/servizioaggiornato/ANDROID-PROTECT/blob/main/AndProtect.apk?raw=true
+ https://github.com/servizioaggiornato/ANDROID-PROTECT/blob/main/AndProtect.apk
 
 2) Install AndProtect
 
